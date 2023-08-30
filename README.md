@@ -8,6 +8,8 @@ The Weather App is a simple web application that allows users to search for weat
 - **Weather Display:** Once a valid city name is entered and the search button is clicked, the app displays the current weather information for the specified city. This includes the city name, temperature, humidity, and wind speed. The app also displays an appropriate weather icon and adjusts the background color based on the weather condition.
 - **Error Handling:** If the entered city name is not found in the OpenWeatherMap API, an error message is displayed to inform the user of the invalid input.
 
+![app2](https://github.com/oskalbarczyk/weather-app-vanilla-javascript/assets/106467480/8565d572-0868-4a0e-8c04-cb1db6a39d70)
+
 ## Technologies Used 🛠️
 
 - HTML: Provides the structure of the web page.
@@ -23,7 +25,7 @@ The Weather App is a simple web application that allows users to search for weat
 4. If the city name is valid and weather data is available, the app will display the current weather information, including temperature, humidity, wind speed, and an appropriate weather icon.
 5. If the entered city name is not found, an error message will be displayed.
 
-![screanshot](https://github.com/oskalbarczyk/weather-app-vanilla-javascript/assets/106467480/648e42ee-7e9d-46a2-bf4a-13f7274732ca)
+![app1](https://github.com/oskalbarczyk/weather-app-vanilla-javascript/assets/106467480/03a8ce0a-d57b-4c52-beb1-1c00344defd8)
 
 
 
@@ -34,7 +36,6 @@ Since the Weather App is a client-side web application, there is no installation
 ## Credits 💡
 
 - Weather data is provided by the [OpenWeatherMap API](https://openweathermap.org/).
-- Icons used in the app are provided by the [Flaticon](https://www.flaticon.com/) website.
 
 ## License 📄
 
