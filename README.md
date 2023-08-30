@@ -44,3 +44,7 @@ This Weather App is provided under the [MIT License](LICENSE).
 ---
 
 Feel free to customize and enhance the Weather App as needed for your use case! 🌈
+## 2DO 🛠️
+- Add animated icons for all weathers.
+- Make use of the rest of data provided by OpenWeatherMap Api.
+- Have fun!
